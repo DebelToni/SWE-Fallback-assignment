@@ -63,4 +63,4 @@ todos_fallback_total
 
 Готов screenshot на Prometheus визуализацията:
 
-- `docs/prometheus-counter.png`
+![image](docs/prometheus-counter.png)
